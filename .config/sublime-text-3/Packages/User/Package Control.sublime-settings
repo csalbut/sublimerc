@@ -1,0 +1,10 @@
+{
+	"auto_upgrade": false,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Package Control"
+	]
+}
