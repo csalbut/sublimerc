@@ -8,5 +8,8 @@
 !/.config/sublime-text-3/Packages/User/Preferences.sublime-settings
 !/.config/sublime-text-3/Packages/User/README.md
 !/.config/sublime-text-3/Packages/User/RevealInSideBarAndFocus.py
+!/.config/sublime-text-3/Packages/User/EasyMotion.sublime-settings
+!/.config/sublime-text-3/Packages/User/LaTeXTools.sublime-settings
+!/.config/sublime-text-3/Packages/User/.vintageousrc
 !/.gitignore.d
 !/.gitignore.d/sublimerc
